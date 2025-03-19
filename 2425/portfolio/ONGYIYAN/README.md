@@ -14,5 +14,5 @@ Hello! I'm Ong Yi Yan, a computer science student at UTM with a passion for **hi
 
 ## 📫 Contact  
 📧 Email: ongyan@graduate.utm.my
-🔗 GitHub: [your GitHub profile]  
-💼 LinkedIn: [your LinkedIn profile]  
+🔗 GitHub: https://github.com/ONGYIYAN
+💼 LinkedIn: https://www.linkedin.com/in/yi-yan-ong-970149263/
