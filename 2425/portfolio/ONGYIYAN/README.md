@@ -1,6 +1,5 @@
 # 🚀 My Portfolio
 
-![Data Processing](https://media.giphy.com/media/3o7TKP9ln2Dr6ze6Gk/giphy.gif)  
 
 ## 👋 About Me  
 Hi, I'm Ong Yi Yan, a Computer Science student at UTM, passionate about high-performance data processing, distributed systems, and optimizing data pipelines.  
