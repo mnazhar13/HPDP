@@ -44,9 +44,9 @@
 ---
 
 ## 🌱 Currently Learning
-- **Cloud Computing & DevOps**
-- **Microservices Architecture**
-- **AI & Machine Learning**
+- **High-Performance Data Processing**
+- **Application Development**
+- **Business Intelligence**
 
 Let's connect and build something amazing together! 🚀
 
