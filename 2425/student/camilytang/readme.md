@@ -33,12 +33,13 @@ I'm a third-year *Data Engineering* student at *Universiti Teknologi Malaysia (U
 <br> 
 
 ### 🛠️ Languages & Tools:
-- *C++*: ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg =40x40)
-- *Java*: ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg =40x40)
-- *Python*: ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =40x40)
-- *HTML*: ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =40x40)
-- *PHP*: ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =40x40)
-- *CSS*: ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg =40x40)
+- *C++*: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+- *Java*: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40">
+- *Python*: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+- *HTML*: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40">
+- *PHP*: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+- *CSS*: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40">
+
 
 <br>
 
