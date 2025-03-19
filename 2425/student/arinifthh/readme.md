@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, I'm Arini 👋</h1>
 
-## 👨‍💻 About Me  
-- 🎓 **Data Engineering Student** | Passionate about data processing, cloud technologies, and automation.  
-- 📊 Love working with **Python, SQL, Cloud Services (AWS, Azure), and Automation tools**.  
-- 🚀 Always learning and improving my **development and problem-solving skills**.  
+## 👩‍💻 About Me  
+- 🖊️ **Nur Arini Fatihah Binti Mohd Sabir**  
+- 🎓 **21-year-old, 3rd-year Computer Science (Data Engineering) student at UTM JB**  
+- 📍 Originally from **Negeri Sembilan**  
+- 💡 Passionate about **data processing, cloud technologies, and automation**  
+- 🚀 Always learning and improving my **development and problem-solving skills**  
 
 ---
 
@@ -26,9 +28,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
-### 📊 Data & Analytics  
+### 📊 Data, Analytics & Mining  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![RapidMiner](https://img.shields.io/badge/RapidMiner-FF9F1C?style=for-the-badge&logo=rapidminer&logoColor=white)  
+![Orange](https://img.shields.io/badge/Orange-FFA500?style=for-the-badge&logo=orange&logoColor=white)  
 
 ### ☁️ Cloud & DevOps  
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
@@ -51,11 +55,10 @@ A **community-driven platform** designed specifically for **special needs indivi
 
 
 ---
-
 ## 📫 Let's Connect!  
 
-💼 **LinkedIn:** [Arini Fatihah](www.linkedin.com/in/arini-fatihah-305172262)  
-📧 **Email:** [your.email@example.com](arinifatihah710@gmail.com)  
+💼 **LinkedIn:** [Arini Fatihah](https://www.linkedin.com/in/arini-fatihah-305172262/)  
+📧 **Email:** [arinifatihah710@gmail.com](mailto:arinifatihah710@gmail.com)  
 
 ---
 
