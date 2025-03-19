@@ -10,9 +10,8 @@ I enjoy exploring different aspects of data engineering, from databases to progr
 💬 **Name:** Nik Zulaikhaa Binti Zuraidi Afandi  
 🎂 **Age:** 21  
 🌱 **Education:** Currently pursuing a **Bachelor of Data Engineering at UTM**  
-💡 **Aspiration:** To become a skilled data engineer who builds efficient and scalable data solutions  
-📍 **From:** Puchong, Selangor  
-🎯 **Interests:** Data engineering, software development, and web technologies  
+💡 **Aspiration:** To become a good data engineer who can keep up with the fast pace of the IT World
+🎯 **Interests:** Data, software and web developments
 🎵 **Hobbies:** Listening to music, reading books, and sleeping 💤  
 
 <br>  
