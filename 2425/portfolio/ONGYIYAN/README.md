@@ -13,6 +13,6 @@ Hello! I'm Ong Yi Yan, a computer science student at UTM with a passion for **hi
 - Exploring new frameworks for high-performance computing  
 
 ## 📫 Contact  
--📧 Email: ongyan@graduate.utm.my
--🔗 GitHub: https://github.com/ONGYIYAN
--💼 LinkedIn: https://www.linkedin.com/in/yi-yan-ong-970149263/
+- 📧 Email: ongyan@graduate.utm.my
+- 🔗 GitHub: https://github.com/ONGYIYAN
+- 💼 LinkedIn: https://www.linkedin.com/in/yi-yan-ong-970149263/
