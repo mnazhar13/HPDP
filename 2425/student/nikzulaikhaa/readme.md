@@ -11,6 +11,8 @@ I enjoy exploring different aspects of data engineering, from databases to progr
 🎂 **Age:** 21  
 🌱 **Education:** Studying **Bachelor of Data Engineering at UTM**  
 💡 **Aspiration:** To become a good data engineer that can catch up with the fast paces of the IT world
+
+
 📍 **From:** Puchong, Selangor  
 🎯 **Interests:** Data, software and web development  
 🎵 **Hobbies:** Listening to music, reading books, and sleep 💤 
