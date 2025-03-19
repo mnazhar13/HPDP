@@ -33,7 +33,7 @@
 ## 🚀 Projects & Achievements
 - 🏆 **Winner** of a system development competition for **YouthVenture**, with a project called **Student Activity Management System**.
 - 🎮 Developed a **playable game using only C++ Graphics**.
-- 🕹️ **Created a retro gaming website using Golang and React** - [ZrqHotel](www.zrqhotel.com)
+- 🕹️ Developed a **retro gaming website using Golang and React** - [ZrqHotel](www.zrqhotel.com)
   
 ---
 
@@ -44,9 +44,9 @@
 ---
 
 ## 🌱 Currently Learning
-- **Cloud Computing & DevOps**
-- **Microservices Architecture**
-- **AI & Machine Learning**
+- **High-Performance Data Processing**
+- **Application Development**
+- **Business Intelligence**
 
 Let's connect and build something amazing together! 🚀
 
