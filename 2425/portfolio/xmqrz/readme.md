@@ -49,4 +49,5 @@
 - **Business Intelligence**
 
 Let's connect and build something amazing together! 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=xmqrz&label=Profile%20Views&color=blue&style=flat)
 
