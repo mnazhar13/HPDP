@@ -2,7 +2,7 @@
 
 **Diligent and committed Data Engineering student at UTM**, with a keen interest in **web development and system design**. Currently in my **second semester of the third year**, I am poised to leverage my education and passion for technology to contribute to innovative projects and solutions. Eager to expand my knowledge and skills while embracing new challenges in the field. 
 
-📅 **Age**: Turning 21 soon  
+📅 **Age**: Turning 22 soon  
 🎯 **Goal**: Continuous learning and professional development  
 
 ---
