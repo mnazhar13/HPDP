@@ -28,9 +28,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
-### 📊 Data & Analytics  
+### 📊 Data, Analytics & Mining  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![RapidMiner](https://img.shields.io/badge/RapidMiner-FF9F1C?style=for-the-badge&logo=rapidminer&logoColor=white)  
+![Orange](https://img.shields.io/badge/Orange-FFA500?style=for-the-badge&logo=orange&logoColor=white)  
 
 ### ☁️ Cloud & DevOps  
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
