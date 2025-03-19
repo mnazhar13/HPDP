@@ -1,20 +1,18 @@
 # 🚀 My Portfolio
 
 
-## 👋 About Me  
-Hi, I'm Ong Yi Yan, a Computer Science student at UTM, passionate about high-performance data processing, distributed systems, and optimizing data pipelines.  
+## 👩‍💻 About Me  
+Hello! I'm Ong Yi Yan, a computer science student at UTM with a passion for **high-performance data processing**. 
 
-## 💡 Skills  
-- **Parallel Computing**: Utilizing multi-threading and distributed computing to speed up data processing.  
-- **Big Data Technologies**: Familiar with Spark, Hadoop, and real-time streaming frameworks.  
-- **Optimization Techniques**: Profiling and fine-tuning code for performance gains.  
-- **Cloud & Containers**: Experience with Docker, Kubernetes, and cloud-based data processing.  
+## 📚 Skills  
+- **Programming Languages:** Python, C++, Java
+  
+## 🎯 Interests  
+- Real-time data processing techniques  
+- Distributed computing and cloud-based solutions  
+- Exploring new frameworks for high-performance computing  
 
-## 📚 Learning Focus  
-Currently exploring:  
-- Efficient data structures for high-speed computation  
-- Advanced memory management techniques  
-- Real-time analytics with Apache Flink  
-
-📩 *Always excited to connect and discuss data performance challenges!*  
-
+## 📫 Contact  
+📧 Email: ongyan@graduate.utm.my
+🔗 GitHub: [your GitHub profile]  
+💼 LinkedIn: [your LinkedIn profile]  
