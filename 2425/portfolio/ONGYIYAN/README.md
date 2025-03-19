@@ -7,7 +7,7 @@ Hello! I'm Ong Yi Yan, a computer science student at UTM with a passion for **hi
 - **Programming Languages:** Python, C++, Java
 
 ## 🎓 Certifications and Badges
-- **Microsoft Certified: Azure AI Fundamentals** – Microsoft – [View Credential()
+- **Microsoft Certified: Azure AI Fundamentals** – Microsoft – [View Credential(https://badgr.com/public/assertions/M9ETufXTTMOVSlDhJkAkLg?identity__email=oyiyan22@gmail.com)]
 - 
 ## 📫 Contact  
 - 📧 Email: ongyan@graduate.utm.my
