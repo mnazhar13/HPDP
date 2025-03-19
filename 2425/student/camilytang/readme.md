@@ -1,6 +1,6 @@
-<div align="center">
+<!--  <div align="center">
   <img src="" alt="Camily" width="310px">
-</div>
+</div> -->
 
 # 👋 Hi, I'm Camily Tang Jia Lei !
 
