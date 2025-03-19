@@ -33,7 +33,8 @@
 ## 🚀 Projects & Achievements
 - 🏆 **Winner** of a system development competition for **YouthVenture**, with a project called **Student Activity Management System**.
 - 🎮 Developed a **playable game using only C++ Graphics**.
-
+- 🕹️ **Created a retro gaming website using Golang and React** - [ZrqHotel](www.zrqhotel.com)
+  
 ---
 
 ## 📊 GitHub Stats
