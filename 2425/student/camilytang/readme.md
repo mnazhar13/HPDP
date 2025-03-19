@@ -4,8 +4,10 @@
 
 # 👋 Hi, I'm Camily Tang Jia Lei !
 
-I'm a third-year *Data Engineering* student at *Universiti Teknologi Malaysia (UTM)*, passionate about technology, data, and problem-solving. 🚀  
-In my spare time, you’ll find me playing the *piano, **flute*, or running to stay active!
+I'm a third-year *Data Engineering* student at *Universiti Teknologi Malaysia (UTM)*, passionate about technology, data, and problem-solving. 
+🚀  In my spare time, you’ll find me playing the *piano, **flute*, or running to stay active!
+
+<br>
 
 ## 📚 About Me
 - 💬 **Name**: Camily Tang Jia Lei
@@ -31,12 +33,12 @@ In my spare time, you’ll find me playing the *piano, **flute*, or running to s
 <br> 
 
 ### 🛠️ Languages & Tools:
-- *C++*: ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-- *Java*: ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)
-- *Python*: ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- *HTML*: ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- *PHP*: ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
-- *CSS*: ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- *C++*: ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg =40x40)
+- *Java*: ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg =40x40)
+- *Python*: ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =40x40)
+- *HTML*: ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =40x40)
+- *PHP*: ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =40x40)
+- *CSS*: ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg =40x40)
 
 <br>
 
