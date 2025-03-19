@@ -64,4 +64,4 @@ I'm a third-year *Data Engineering* student at *Universiti Teknologi Malaysia (U
 <br>
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilytang&show_icons=true&locale=en)
